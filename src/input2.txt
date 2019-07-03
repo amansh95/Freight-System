@@ -1,0 +1,29 @@
+Unloading 200 Sydney
+Unloading 300 Adelaide
+Unloading 200 Melbourne
+Unloading 250 Brisbane
+Unloading 340 Woolongong
+Unloading 270 Perth
+Unloading 120 Cairns
+Cost 150 Sydney Adelaide
+Cost 170 Sydney Melbourne
+Cost 220 Adelaide Woolongong
+Cost 315 Woolongong Cairns
+Cost 250 Cairns Brisbane
+Cost 280 Brisbane Melbourne
+Cost 250 Perth Sydney
+Cost 300 Perth Adelaide
+Cost 340 Perth Melbourne
+Cost 380 Perth Brisbane
+Cost 290 Perth Woolongong
+Job Sydney Melbourne
+Job Sydney Adelaide
+Job Melbourne Brisbane
+Job Adelaide Woolongong
+Job Brisbane Cairns
+Job Woolongong Cairns
+Job Perth Sydney
+Job Perth Adelaide
+Job Perth Melbourne
+Job Perth Brisbane
+Job Perth Woolongong

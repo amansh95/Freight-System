@@ -1,0 +1,20 @@
+259 nodes expanded
+cost = 7730
+Job Sydney to Adelaide
+Job Adelaide to Woolongong
+Job Woolongong to Cairns
+Empty Cairns to Brisbane
+Job Brisbane to Cairns
+Empty Cairns to Woolongong
+Empty Woolongong to Perth
+Job Perth to Sydney
+Job Sydney to Melbourne
+Job Melbourne to Brisbane
+Empty Brisbane to Perth
+Job Perth to Woolongong
+Empty Woolongong to Perth
+Job Perth to Adelaide
+Empty Adelaide to Perth
+Job Perth to Melbourne
+Empty Melbourne to Perth
+Job Perth to Brisbane
